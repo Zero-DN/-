@@ -1,0 +1,233 @@
+# Rime table
+#@/db_name	xhyx_viqm.txt
+#@/db_type	tabledb
+#@/rime_version	1.5.3
+#@/tick	106
+按	anf1	2
+棒	bhm1	2
+边	bm1	2
+边距	bmju	12
+村	cy1	2
+打	daf1	5
+大全	daqr	3
+㐲	dard	0
+打赏	dauh	6
+打狗棒	dgb	6
+底	dig1	2
+斗笠山	dlu	9
+㑙	dprv	0
+㑈	dsrd	0
+度	dug1	2
+斗	dzd1	2
+㑂	fgrb	0
+㐽	fgrx	0
+腹肌	fuji	3
+腹	fuow1	2
+高	gc1	2
+高程	gcig	24
+耕	ggl1	2
+功利	gsli	3
+狗	gzq1	2
+韩	hj3	2
+韩信	hjxb	3
+乎	hup1	2
+灰	hvu1	2
+画师	hxui	0
+混	hy1	2
+混子	hyzi	6
+程	ig2	5
+程度	igdu	12
+程	ighw1	2
+㐼	igr/	0
+长	ih2	5
+长按	ihan	3
+尽	jbi1	2
+击	jia1	2
+击剑	jijm	3
+肌	jio1	2
+基	jiq1	2
+简洁	jmjp	3
+剑	jmrd1	2
+简	jmv1	2
+洁	jpd1	2
+㑘	jprg	0
+距离	juli	15
+距	juz1	4
+㐄	kxal	0
+㐭	lbw/	0
+佬	lcr1	2
+笠	livl1	2
+离	liw1	2
+联	lme1	2
+联系	lmxi	15
+㑍	lprl	0
+㐬	lqw/	0
+类似	lwsi	3
+娄底	lzdi	9
+娄	lzm1	2
+骂	makm1	2
+mama	mama	1
+㐷	marm	0
+玛	maw1	2
+摸	mof1	2
+摸鱼	moyu	9
+蒙奇·D·路飞	mqdf	6
+你	n1	2
+㑎	ncr/	0
+尼玛	nima	12
+尼	niu1	2
+㐡	nojd	0
+㐻	nwrn	0
+你在骂	nzm	3
+Python	pyt	7
+欺瞒	qimj	12
+碁	qiqu	0
+㐸	qmrr	0
+㐀	qqla	3
+㑋	qsrq	0
+㐤	quj/	0
+厮	sii1	2
+厮守	siuz	6
+㑉	sur/	0
+㑀	tdrt	0
+㑗	ufr/	0
+生	ug1	2
+上	uh1	2
+赏	uhxr1	2
+石	uiak1	2
+世	uiav1	2
+实	uib1	5
+室	uibt1	2
+石灰	uihv	12
+时空	uiks	3
+世上	uiuh	3
+室友	uiyz	12
+山	uj1	2
+守	uz2	2
+㐱	vfrp	0
+知乎	vihu	6
+知	viu1	2
+只是	viui	15
+㑁	vori	0
+㐺	vsr/	0
+㑏	vur/	0
+㑌	whrw	0
+万物	wjwu	12
+无	wu1	2
+无尽	wujb	6
+㐅	wup/	0
+㐳	wur/	0
+㐰	xbr/	0
+信	xbr1	2
+系	xi1	2
+㐂	xiqq	0
+㐩	xkjj	0
+肖黎明	xlmk	15
+秀儿	xqer	3
+㐫	xswk	0
+㑔	xurr	0
+㐨	xusp	3
+训	xyyi1	5
+㐆	ybp/	0
+㐺	ybrr	0
+阴郁	ybyu	3
+樱岛麻衣	ydmy	56
+一	yiaa1	2
+㐹	yir/	0
+一生	yiu	27
+鱼	yud1	2
+友	yzuy1	2
+在	z1	2
+子	z2	2
+斩·赤红之瞳	zcht	50
+自耕村	zgc	3
+自	zip1	2
+㑅	zor/	0
+边距	encbmj	1
+边距	encbmju	1
+打赏	encd2u	1
+打赏	encd2uh	1
+打赏	encdau	1
+打赏	encdauh	1
+打狗棒	encdgb	1
+打狗棒	encdgbh	1
+石灰	encdjh	1
+石灰	encdjhv	1
+斗笠山	encdlu	1
+斗笠山	encdluj	1
+腹肌	encfuj	1
+腹肌	encfuji	1
+高程	encgci	1
+高程	encgcig	1
+韩信	enchjx	1
+韩信	enchjxb	1
+混子	enchyo	1
+混子	enchyox	1
+混子	enchyz	1
+混子	enchyz2	1
+混子	enchyzi	1
+程度	encigd	1
+程度	encigdo	1
+程度	encigdu	1
+长按	enciha	1
+长按	enciha2	1
+长按	encihan	1
+击剑	encjij	1
+击剑	encjijm	1
+基佬	encjil	1
+基佬	encjilc	1
+简洁	encjmj	1
+简洁	encjmjp	1
+距离	encjul	1
+距离	encjuli	1
+联系	enclmj	1
+联系	enclmji	1
+联系	enclmx	1
+联系	enclmxi	1
+娄底	enclzd	1
+娄底	enclzdi	1
+摸鱼	encmoy	1
+摸鱼	encmoyu	1
+尼玛	encnim	1
+尼玛	encnima	1
+你在骂	encnzm	1
+你在骂	encnzma	1
+自耕村	encogc	1
+自耕村	encogcy	1
+长按	encoxa	1
+长按	encoxa2	1
+长按	encoxan	1
+击剑	encoxj	1
+击剑	encoxjm	1
+世上	encoxo	1
+世上	encoxox	1
+世上	encoxu	1
+世上	encoxuh	1
+厮守	encsiu	1
+厮守	encsiuz	1
+石灰	encuih	1
+石灰	encuihv	1
+世上	encuio	1
+世上	encuiox	1
+世上	encuiu	1
+世上	encuiuh	1
+实训	encuix	1
+实训	encuixy	1
+室友	encuiy	1
+室友	encuiyz	1
+长按	encvha	1
+长按	encvha2	1
+长按	encvhan	1
+知乎	encvih	1
+知乎	encvih2	1
+知乎	encvihu	1
+知乎	encvio	1
+知乎	encviox	1
+无尽	encwuj	1
+无尽	encwujb	1
+一生	encyio	1
+一生	encyiox	1
+一生	encyiu	1
+一生	encyiug	1
+自耕村	enczgc	1
+自耕村	enczgcy	1

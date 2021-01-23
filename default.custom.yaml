@@ -1,0 +1,30 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Tue Jan 19 12:11:29 2021"
+  rime_version: 1.5.3
+patch:
+  "ascii_composer/good_old_caps_lock": false
+  "ascii_composer/switch_key":
+    Caps_Lock: commit_code
+    Control_L: noop
+    Control_R: noop
+    Shift_L: noop
+    Shift_R: noop
+  "key_binder/bindings":
+    - {accept: ISO_Left_Tab, send: Page_Up, when: composing}
+    - {accept: "Shift+Tab", send: Page_Up, when: composing}
+    - {accept: Tab, send: Page_Down, when: composing}
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+  "menu/page_size": 3
+  schema_list:
+    - {schema: double_pinyin_flypy}
+    - {schema: xhyx}
+    - {schema: xhyx_3}
+    - {schema: xhyx_4}
+    - {schema: xklb42}
+    - {schema: xklb42_ci}
+  "switcher/hotkeys":
+    - F4

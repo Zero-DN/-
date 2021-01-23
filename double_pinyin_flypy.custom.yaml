@@ -1,0 +1,35 @@
+# double_pinyin_flypy.custom.yaml, 只对小鹤双拼生效
+patch:
+  schema/dependencies:
+  switches:
+    - name: ascii_mode
+      reset: 0
+      states: ["中文", "西文"]
+    - name: full_shape
+      states: ["半角", "全角"]
+    - name: zh_simp      # 启用罕见字過濾
+      reset: 1
+      states: [ 漢字, 汉字 ]
+    - name: ascii_punct
+      states: ["。，", "．，"]
+
+  #输入双拼码时候不转换全拼码
+  translator/preedit_format: {}
+
+  recognizer/patterns/reverse_lookup:    # 关闭 ` 键反查功能
+  reverse_lookup:
+
+  engine/filters:
+      - simplifier@zh_simp      # 启用罕见字過濾
+      - uniquifier
+  translator/dictionary: pinyin_simp      # 启用罕见字過濾
+
+  ### 双拼使用自定义词典 custom_phrase.txt
+  custom_phrase:
+    dictionary: ""
+    user_dict: custom_phrase
+    db_class: stabledb
+    enable_completion: false
+    enable_sentence: false
+    initial_quality: 1
+  "engine/translators/@5": table_translator@custom_phrase

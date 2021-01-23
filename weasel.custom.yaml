@@ -1,0 +1,33 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Tue Nov 17 20:15:01 2020"
+  rime_version: 1.5.3
+patch:
+  "preset_color_schemes/ZY":
+    author: Zero-DN
+    back_color: 0xD9DBDD #候选框，背景色
+    border_color: 0xD9DBDD #候选框，边框颜色
+    text_color: 0x404040 #已选择字，文字颜色
+    candidate_text_color: 0x404040 #未候选字颜色
+    hilited_back_color: 0xcdd1d3 #已选择字右侧拼音 背景色
+    hilited_candidate_back_color: 0xDACFB9 #候选字背景色
+    hilited_candidate_text_color: 0x000000 #候选字颜色
+    hilited_text_color: 0x000000 #已选择字右侧拼音，文字颜色
+    name: "自用"
+  "style/color_scheme": ZY #主题名字
+  "style/display_tray_icon": false #托盘图标
+  "style/font_face": "Microsoft YaHei" #使用字体
+  "style/font_point": 13 #字体大小
+  "style/horizontal": true #横排显示
+  "style/inline_preedit": true #嵌入式候选窗单行显示
+  "style/layout/border": 0
+  "style/layout/border_width": 0
+  "style/layout/candidate_spacing": 24 #候选字间隔
+  "style/layout/hilite_padding": 12 #候选字背景色色块高度 若想候选字背景色块无边界填充候选框，仅需其高度和候选字上下边距一致即可
+  "style/layout/hilite_spacing": 3 #序号和候选字之间的间隔
+  "style/layout/margin_x": 12 #候选字左右边距
+  "style/layout/margin_y": 12 #候选字上下边距
+  "style/layout/round_corner": 0 #候选字背景色块圆角幅度
+  "style/layout/spacing": 10 #作用不明

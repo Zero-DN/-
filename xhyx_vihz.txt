@@ -1,0 +1,109 @@
+# Rime table
+#@/db_name	xhyx_vihz.txt
+#@/db_type	tabledb
+#@/rime_version	1.5.3
+#@/tick	49
+板	bjm1	2
+般	bjv1	4
+贝	bwkr1	5
+尔	erd1	5
+付款	fukr1	2
+符	fuv1	5
+符文	fuwf	3
+公	gsb1	2
+毫	hcwm1	2
+红	hs1	2
+护	huf1	2
+护符	hufu	3
+场	iht1	2
+赤红之瞳	ihvt	6
+赤	iit1	2
+基佬	jilc	6
+基	jiq1	2
+记	jiy1	2
+奖	jldd1	2
+间	jm1	2
+剪	jmbd1	2
+剪切板	jqb	3
+佬	lcr1	2
+狼	lhq1	2
+娜	nan1	2
+诺贝尔	nbe	3
+诺	noy1	5
+蒲公英	pgy	6
+蒲	puc1	2
+骑	qim1	2
+骑士	qiui	54
+切	qpq1	2
+丝	siva1	2
+随	sve1	2
+随记	svji	3
+瞳	tso1	2
+收付款	ufk	6
+实	uib1	2
+士	uiua1	2
+实训	uixy	12
+疏	uuvv1	2
+瞬	uyo1	2
+收	uzv1	2
+之	vidn1	2
+文	wfw1	2
+小	x1	2
+稀	xih1	2
+稀疏	xiuu	3
+小狼毫	xlh	21
+训	xyyi1	2
+一	y1	8
+亚	ya1	2
+一般般	ybb	6
+一场	yiih	9
+英	ykc1	2
+亚丝娜	ysn	3
+一瞬间	yuj	3
+符文	encfuw	1
+符文	encfuwf	1
+护符	enchuf	1
+护符	enchufu	1
+赤红之瞳	enciho	1
+赤红之瞳	encihot	1
+赤红之瞳	encihv	1
+赤红之瞳	encihvt	1
+基佬	encjil	1
+基佬	encjilc	1
+剪切板	encjqb	1
+剪切板	encjqbj	1
+诺贝尔	encnbe	1
+诺贝尔奖	encnbe	1
+诺贝尔	encnbe2	1
+诺贝尔奖	encnbej	1
+诺贝尔	encnber	1
+亚丝娜	encosn	1
+亚丝娜	encosna	1
+亚丝娜	encosno	1
+蒲公英	encpgy	1
+蒲公英	encpgyk	1
+骑士	encqio	1
+骑士	encqiox	1
+骑士	encqiu	1
+骑士	encqiui	1
+随记	encs2j	1
+随记	encs2ji	1
+随记	encsvj	1
+随记	encsvji	1
+收付款	encufk	1
+收付款	encufkr	1
+实训	encuix	1
+实训	encuixy	1
+稀疏	encxiu	1
+稀疏	encxiuu	1
+小狼毫	encxlh	1
+小狼毫	encxlhc	1
+一般般	encybb	1
+一般般	encybbj	1
+一场	encyii	1
+一场	encyiih	1
+亚丝娜	encysn	1
+亚丝娜	encysna	1
+亚丝娜	encysno	1
+一瞬间	encyuj	1
+一瞬间	encyujm	1
